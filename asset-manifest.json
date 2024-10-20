@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/radicaldex/static/css/main.e6c13ad2.css",
+    "main.js": "/radicaldex/static/js/main.7dc9b4de.js",
+    "index.html": "/radicaldex/index.html",
+    "main.e6c13ad2.css.map": "/radicaldex/static/css/main.e6c13ad2.css.map",
+    "main.7dc9b4de.js.map": "/radicaldex/static/js/main.7dc9b4de.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.7dc9b4de.js"
+  ]
+}
