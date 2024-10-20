@@ -11,7 +11,8 @@ export default function App() {
   })
 
   useEffect(() => {
-    localStorage.setItem("ITEM", JSON.stringify(todos))
+    console.log("useEffect trigger")
+    localStorage.setItem("ITEMS", JSON.stringify(todos))
   }, [todos])
 
   function addTodo(title) {
